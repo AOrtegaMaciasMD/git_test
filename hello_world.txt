@@ -1,1 +1,2 @@
 touch hello_world.txt
+stop telling others what a good man should be, just be one
